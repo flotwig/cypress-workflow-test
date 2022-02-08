@@ -10,7 +10,7 @@
     "prefer-spread": "off",
     "prefer-rest-params": "off",
     "no-useless-constrfuctor": "off",
-    "no-restricted-properties": [
+    "no-restricted-properfties": [
       "error",
       {
         "object": "process",
