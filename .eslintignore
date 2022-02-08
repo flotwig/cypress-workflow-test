@@ -1,5 +1,5 @@
 # unignore hidden files
-!.*
+!.*  
 
 **/__snapshots__
 **/_test-output
